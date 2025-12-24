@@ -8,6 +8,7 @@ export default defineSiteConfig({
     name: '云游君',
   },
   description: 'Valaxy Theme Yun Preview.',
+  orderBy: 'date',
   social: [
     {
       name: 'RSS',
